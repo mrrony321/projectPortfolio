@@ -1,6 +1,6 @@
 {
   "name": "projectportfolio",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Responsive portfolio website",
   "main": "index.js",
   "homepage": "https://mrrony321.github.io/projectPortfolio",
@@ -11,7 +11,9 @@
   "author": "MD Mizanur Rahman Rony",
   "license": "MIT",
   "dependencies": {
-    "gh-pages": "^2.2.0",
     "node-sass": "^4.14.1"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
   }
 }
